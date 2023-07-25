@@ -10,3 +10,50 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+.copyright{
+    text-align: center;
+    padding: 10px;
+}
+.jumbotron{
+    background-color: gainsboro;
+}
+#copyright{
+    height: 50px;
+}
+.card-text{
+    font-size: smaller;
+}
+.lead{
+    font-size:medium;
+}
+.nav-link{
+    color: white;
+}
+ul li{
+    font-family:cursive;
+    font-size: small;
+    
+
+}
+ul li:hover{
+   
+    background-color: antiquewhite;
+    text-decoration:underline;
+    color: pink;
+}
+.navbar-brand{
+    font-size: medium;
+    color: white;
+}
+.navbar-brand:hover{
+    background-color: bisque;
+}
+img{
+    width: 500px;
+    height: 325px;
+}
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
